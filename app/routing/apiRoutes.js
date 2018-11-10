@@ -23,14 +23,10 @@ exports.findMatch = function (req, res) {
         scores.push(totalScore);
         totalScore = 0;
     }
-    let highestIndex = 0;
+    let lowestIndex = 0;
     for (let i=0; i<scores.length; i++){
-        highestIndex = scores[i] > scores[highestIndex] ? i : highestIndex;
+        lowestIndex = scores[i] < scores[lowestIndex] ? i : lowestIndex;
     }
-    console.log(highestIndex);
-    console.log(friends[highestIndex].name);
-    console.log(scores, "at the end of findMatch");
-    console.log(newUser, "in the apiRoute");
+    console.log(friends[lowestIndex].name);
+    res.json(friends[lowestIndex]);
 }
-// Loop through the friends Array
-// for every person in that array loop through their score and add up the absolute differences

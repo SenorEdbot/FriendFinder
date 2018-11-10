@@ -1,7 +1,7 @@
 const potentialMatches = [
     {
         name: "Goku",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest?cb=20150325220848",
         score: [
             5
             , 1
@@ -17,7 +17,7 @@ const potentialMatches = [
     }
     , {
         name: "Vegeta",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/its-always-veggie-bone-lebowski-party-knuckles/images/8/8f/Vegetavwx2014_928.jpg/revision/latest?cb=20170124235538",
         score: [
             5
             , 5
@@ -33,7 +33,7 @@ const potentialMatches = [
     }
     , {
         name: "Gohan",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/dragonballfanon/images/9/9c/Gohan_%28LOTSG%29.jpg/revision/latest?cb=20160717162418",
         score: [
             3
             , 3
@@ -49,7 +49,7 @@ const potentialMatches = [
     }
     , {
         name: "Trunks",
-        photo: "",
+        photo: "http://omegaswords.com/wp-content/uploads/2015/08/future-trunks-with-sword.png",
         score: [
             4
             , 4
@@ -65,7 +65,7 @@ const potentialMatches = [
     }
     , {
         name: "Frieza",
-        photo: "",
+        photo: "https://imgix.ranker.com/user_node_img/50081/1001612547/original/22-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces",
         score: [
             4
             , 2
@@ -81,7 +81,7 @@ const potentialMatches = [
     }
     , {
         name: "Bulma",
-        photo: "",
+        photo: "https://www.themarysue.com/wp-content/uploads/2017/11/713a433cef988fd9cf57d80362aced720c1d75d8_hq.jpg",
         score: [
             1
             , 2
@@ -97,7 +97,7 @@ const potentialMatches = [
     }
     , {
         name: "Krillin",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/dragonball/images/c/cc/Kid_krillin_peace.jpg/revision/latest?cb=20120215232735",
         score: [
             3
             , 1
@@ -113,7 +113,7 @@ const potentialMatches = [
     }
     , {
         name: "Dende",
-        photo: "",
+        photo: "https://vignette.wikia.nocookie.net/teamfourstar/images/e/e3/DendeWhiteMage.png/revision/latest?cb=20160405224554",
         score: [
             3
             , 2
@@ -129,7 +129,7 @@ const potentialMatches = [
     }
     , {
         name: "Buu",
-        photo: "",
+        photo: "https://qph.fs.quoracdn.net/main-qimg-c420b7bc181d03501c1d573a11daf7f7",
         score: [
             5
             , 4
@@ -145,7 +145,7 @@ const potentialMatches = [
     }
     , {
         name: "Cell",
-        photo: "",
+        photo: "https://i.ytimg.com/vi/OBV3l5u2--g/maxresdefault.jpg",
         score: [
             4
             , 4
